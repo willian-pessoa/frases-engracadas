@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frases-engracadas/static/css/main.f5c47c21.chunk.css",
+    "main.js": "/frases-engracadas/static/js/main.001beebc.chunk.js",
+    "main.js.map": "/frases-engracadas/static/js/main.001beebc.chunk.js.map",
+    "runtime-main.js": "/frases-engracadas/static/js/runtime-main.71137f14.js",
+    "runtime-main.js.map": "/frases-engracadas/static/js/runtime-main.71137f14.js.map",
+    "static/js/2.27e17007.chunk.js": "/frases-engracadas/static/js/2.27e17007.chunk.js",
+    "static/js/2.27e17007.chunk.js.map": "/frases-engracadas/static/js/2.27e17007.chunk.js.map",
+    "static/js/3.e59a9883.chunk.js": "/frases-engracadas/static/js/3.e59a9883.chunk.js",
+    "static/js/3.e59a9883.chunk.js.map": "/frases-engracadas/static/js/3.e59a9883.chunk.js.map",
+    "index.html": "/frases-engracadas/index.html",
+    "static/css/main.f5c47c21.chunk.css.map": "/frases-engracadas/static/css/main.f5c47c21.chunk.css.map",
+    "static/js/2.27e17007.chunk.js.LICENSE.txt": "/frases-engracadas/static/js/2.27e17007.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71137f14.js",
+    "static/js/2.27e17007.chunk.js",
+    "static/css/main.f5c47c21.chunk.css",
+    "static/js/main.001beebc.chunk.js"
+  ]
+}

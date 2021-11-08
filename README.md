@@ -1,0 +1,1 @@
+Este é o projeto "Random Quottes Machine" proposto pelo site freecodecamp.org, farei uma versão em portugues onde ele mostra frases aleatorias e engraçadas.
